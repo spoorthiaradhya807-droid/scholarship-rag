@@ -1,8 +1,8 @@
-# 🎓 Scholarship & Financial Aid Assistant (RAG)
+﻿# ðŸŽ“ Scholarship & Financial Aid Assistant (RAG)
 
 A chat assistant that answers questions about scholarships in India using **Retrieval-Augmented Generation (RAG)**. It searches official scholarship documents (FAQs, guidelines, policies), then uses Google Gemini to write an answer based only on what it found, and shows links so you can verify the answer on the official website.
 
-**Live demo:** <PASTE YOUR DEPLOYED LINK HERE>
+**Live demo:** https://scholarship-rag-bh5evemw3chlgdewy6uz5i.streamlit.app/
 
 ## Features
 
@@ -34,26 +34,26 @@ A chat assistant that answers questions about scholarships in India using **Retr
 
 ```
 scholarship-rag/
-├── app.py                # Streamlit app
-├── check_setup.py        # Quick check that the API key works
-├── requirements.txt
-├── .env.example          # Template for environment variables
-├── src/
-│   ├── config.py         # Settings loaded from environment
-│   ├── loaders.py        # PDF/DOCX loading
-│   ├── chunking.py       # Text chunking
-│   ├── embeddings.py     # Gemini embeddings
-│   ├── vectorstore.py    # ChromaDB operations
-│   ├── rag.py            # Retrieval + answer generation
-│   ├── links.py          # Official website links for sources
-│   ├── security.py       # Upload validation
-│   ├── documents.py      # Add/delete documents (admin)
-│   ├── index_documents.py# Build the index from data/raw
-│   └── ocr_scanned.py    # OCR for scanned PDFs
-├── data/
-│   ├── raw/              # Source documents (central, karnataka, institution)
-│   └── chroma/           # Vector database
-└── tests/                # pytest tests
+â”œâ”€â”€ app.py                # Streamlit app
+â”œâ”€â”€ check_setup.py        # Quick check that the API key works
+â”œâ”€â”€ requirements.txt
+â”œâ”€â”€ .env.example          # Template for environment variables
+â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ config.py         # Settings loaded from environment
+â”‚   â”œâ”€â”€ loaders.py        # PDF/DOCX loading
+â”‚   â”œâ”€â”€ chunking.py       # Text chunking
+â”‚   â”œâ”€â”€ embeddings.py     # Gemini embeddings
+â”‚   â”œâ”€â”€ vectorstore.py    # ChromaDB operations
+â”‚   â”œâ”€â”€ rag.py            # Retrieval + answer generation
+â”‚   â”œâ”€â”€ links.py          # Official website links for sources
+â”‚   â”œâ”€â”€ security.py       # Upload validation
+â”‚   â”œâ”€â”€ documents.py      # Add/delete documents (admin)
+â”‚   â”œâ”€â”€ index_documents.py# Build the index from data/raw
+â”‚   â””â”€â”€ ocr_scanned.py    # OCR for scanned PDFs
+â”œâ”€â”€ data/
+â”‚   â”œâ”€â”€ raw/              # Source documents (central, karnataka, institution)
+â”‚   â””â”€â”€ chroma/           # Vector database
+â””â”€â”€ tests/                # pytest tests
 ```
 
 ## Run locally
@@ -61,7 +61,7 @@ scholarship-rag/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/scholarship-rag.git
+   git clone https://github.com/spoorthiaradhya807-droid/scholarship-rag.git
    cd scholarship-rag
    ```
 
