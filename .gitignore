@@ -1,7 +1,8 @@
 .env
 .venv/
 __pycache__/
-data/chroma/
-logs/
 *.pyc
 .pytest_cache/
+logs/
+*.bak
+*.backup
