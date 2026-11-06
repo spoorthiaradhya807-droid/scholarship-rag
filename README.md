@@ -1,4 +1,4 @@
-﻿# ðŸŽ“ Scholarship & Financial Aid Assistant (RAG)
+﻿#  Scholarship & Financial Aid Assistant (RAG)
 
 A chat assistant that answers questions about scholarships in India using **Retrieval-Augmented Generation (RAG)**. It searches official scholarship documents (FAQs, guidelines, policies), then uses Google Gemini to write an answer based only on what it found, and shows links so you can verify the answer on the official website.
 
