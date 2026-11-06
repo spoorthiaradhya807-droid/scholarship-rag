@@ -1,0 +1,17 @@
+SCHEME: Chief Minister Raitha Vidyanidhi (CMRVN)
+DEPARTMENT: Agriculture Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Children of an agricultural family where someone in that family has agricultural land in one's name; family data must be in KUTUMBA portal and they should have a FRUITS-ID with land; only 2 children per family would be eligible
+COURSE: All Courses
+INCOME LIMIT: <2.5Lakhs
+KEY CONDITIONS: Scholarship should not be paid by any other department/schemes (not a top-up scheme); entry of income certificate details is mandatory; student must be identified as eligible under CMRVN; student must enroll in KUTUMBA portal mandatorily
+DOCUMENTS: Student Bonafidedata from University/Educational Board (UUCMS or UNIDATA); Counselling Details (for first & second year diploma lateral entry professional course students admitted through counselling); income certificate
+
+SCHEME: Agriculture Labourer Raitha Vidyanidhi (ALRVN)
+DEPARTMENT: Agriculture Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Children of landless agricultural labourers who are engaged in agricultural labour activity and have an MGNREGA card in the name of the student's father or mother; only 2 children per family would be eligible
+COURSE: All Courses
+INCOME LIMIT: <2.5Lakhs
+KEY CONDITIONS: Scholarship should not be paid by any other department/schemes (not a top-up scheme); entry of income certificate details is mandatory; student must be identified as eligible under ALRVN; student must enroll in KUTUMBA portal mandatorily
+DOCUMENTS: Student Bonafidedata from University/Educational Board (UUCMS or UNIDATA); Counselling Details (for first & second year diploma lateral entry professional course students admitted through counselling); MGNREGA card; income certificate

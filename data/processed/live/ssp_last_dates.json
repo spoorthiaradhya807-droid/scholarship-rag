@@ -1,0 +1,25 @@
+{
+  "collected": "2026-11-03",
+  "dates": {
+    "post": {
+      "Social Welfare Department": "2027-01-31",
+      "Tribal Welfare Department": "2026-12-31",
+      "Backward Classes Welfare Department": "2026-11-30",
+      "Minorities Welfare Department": "2026-11-30",
+      "Department of Technical Education": "2026-11-30",
+      "Karnataka State Brahmin Development Board": "2026-12-31",
+      "Disability Welfare Department": "2026-11-30",
+      "Arya Vyshya Department": "2026-11-30"
+    },
+    "pre": {
+      "Social Welfare Department": "2026-12-31",
+      "Tribal Welfare Department": "2026-12-31",
+      "Backward Classes Welfare Department": "2026-09-30",
+      "Minorities Welfare Department": "2026-11-30",
+      "Department of Technical Education": "2026-09-30",
+      "Disability Welfare Department": "2026-09-30",
+      "Labour Department": "2026-12-31",
+      "Department of Primary and Secondary Education": "2026-10-30"
+    }
+  }
+}

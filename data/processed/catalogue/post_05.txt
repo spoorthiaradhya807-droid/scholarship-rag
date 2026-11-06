@@ -1,0 +1,35 @@
+SCHEME: Fee Reimbursement
+DEPARTMENT: Department of Technical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Caste ST (Scheduled Tribe); Resident of Karnataka; Not studying in a Residential college
+COURSE: BE/B.Tech, B-Arch, ME/MTech, M. Arch & Diploma in Polytechnic (Admission only through KEA-CET & Comed-K)
+INCOME LIMIT: Above 2.5 LPA Below 10 LPA
+KEY CONDITIONS: Minimum 50% marks in previous year and passed in all subjects (with no backlogs); Student should be a resident of Karnataka; Not studying in residential college; Admission through KEA-CET & Comed-K (or counselling details for 1st year / lateral entry); Student Bonafide data from University/Educational Board (UUCMS/UNIDATA) to SSP; Parent's salary slip/certificate (if State/Central Govt/undertakings/pensioner) or ITR copy (if business/private employee)
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No]; Aadhaar of Student; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details; Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP; Parent's latest Salary Slip/Certificate or income tax return copy
+
+SCHEME: Fee Reimbursement to Kin of Defence Scholarship (ರಕ್ಷಾದಳ)
+DEPARTMENT: Department of Technical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Kin of Defence (Parents working in Indian Defense Wing - Army, Air force, Navy as Non-Commissioned Officer / Junior Commission Officer or other below ranks); No caste & income restriction
+COURSE: BE/B.Tech, B-Arch & Diploma in Polytechnic (Admission only through KEA-CET)
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Parents working in Indian Defense Wing (Army, Air force, Navy) as Non-Commissioned Officer / Junior Commission Officer or in other below ranks; For first year professional courses and Diploma Lateral entry 2nd year students can submit using counselling details; Student Bonafide data from University/Educational Board (UUCMS/UNIDATA) to SSP; Service certificate issued by Defense Authority (Working Unit)
+DOCUMENTS: Aadhaar of Student; For first year professional courses and Diploma Lateral entry 2nd year students can submit application using counselling details; Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP; Service Certificate issued by the Defense Authority (Working Unit)
+
+SCHEME: Fee Reimbursement for HIV/ Leprosy affected students/ Children of HIV/ Leprosy affected parents
+DEPARTMENT: Department of Technical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: HIV/ Leprosy affected students / Children of HIV/ Leprosy affected parents; No caste & income restriction
+COURSE: BE/B.Tech, B-Arch, ME/MTech, M. Arch & Diploma in Polytechnic (Admission only through KEA-CET & Comed-K)
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Students who have received scholarship from another department will not be eligible; For first year professional courses and Diploma lateral entry students admitted through counselling can use counselling details; Student Bonafide data from University/Educational Board (UUCMS/UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details; Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Pratibha Puraskar to students belonging to BPL families who have secured highest marks in 2nd year PUC, Top Ten students from each district and have got admission to technical degree courses
+DEPARTMENT: Department of Technical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Students belonging to BPL families who have secured highest marks in 2nd year PUC, Top Ten students from each district; No caste & income restriction
+COURSE: BE/B.Tech & B-Arch (Admission only through KEA-CET)
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Must be a holder of BPL card; Validated PUC results are mandatory; Students who have received scholarship from another department will not be eligible; Admission only through KEA-CET; First & second year diploma lateral entry professional course students admitted through counselling can submit using counselling details; Student Bonafide data from University/Educational Board (UUCMS/UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; Student must be a holder of BPL card; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details; Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP

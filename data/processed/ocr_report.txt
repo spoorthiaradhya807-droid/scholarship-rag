@@ -1,0 +1,104 @@
+sahyadri_science_college_scholarship_policy.pdf
+  pages OCR'd: 13 | characters: 11800 | model: gemini-3.5-flash-lite
+  starts with: 
+  flags: short/empty pages: 1
+
+ssp_arya_vysya_fee_reimbursement_eligibility_screenshot.pdf
+  pages OCR'd: 1 | characters: 1291 | model: gemini-3.5-flash-lite
+  starts with: Backward Classes Welfare Department Department of Minority welfare Department of Technical Education Department of Medical Education AYUSH Karnataka State Brahmin Development Board Department of Disab
+  flags: none
+
+ssp_college_information_system_cis_user_manual.pdf
+  pages OCR'd: 1 | characters: 32 | model: gemini-3.5-flash-lite
+  starts with:  Then, click the "View" button.
+  flags: short/empty pages: 16
+
+ssp_dept_agriculture_ksda_schemes.pdf
+  pages OCR'd: 2 | characters: 731 | model: gemini-3.5-flash-lite
+  starts with: MMRVN for Agri Labour children — Eligibility Caste | All Family annual income | <= Rs. 2.5 lakhs Course Type | All College Type | All College Seat Type | All Promotion status | Promoted to present yea
+  flags: none
+
+ssp_dept_ayush_schemes.pdf
+  pages OCR'd: 2 | characters: 1629 | model: gemini-3.5-flash-lite
+  starts with: Social Welfare Department Tribal Welfare Department Backward Classes Welfare Department Department of Minority welfare Department of Technical Education Department of Medical Education AYUSH AYUSH SC 
+  flags: none
+
+ssp_dept_backward_classes_welfare_schemes.pdf
+  pages OCR'd: 5 | characters: 4773 | model: gemini-3.5-flash-lite
+  starts with: BCWD Fee Reimbursement - Eligibility Caste Students belonging to OBC category ONLY Family annual income <= Rs. 2.5 lakhs for Category 1 students and < =1 lakhs for other categories Course Type All Col
+  flags: none
+
+ssp_dept_brahmin_development_board_schemes.pdf
+  pages OCR'd: 1 | characters: 567 | model: gemini-3.5-flash-lite
+  starts with: Backward Classes Welfare Department Department of Minority welfare Department of Technical Education Department of Medical Education AYUSH Karnataka State Brahmin Development Board > Sandeepani Shishy
+  flags: none
+
+ssp_dept_collegiate_education_schemes.pdf
+  pages OCR'd: 5 | characters: 2530 | model: gemini-3.5-flash-lite
+  starts with: Girls Fee Reimbursement - Eligibility Caste All Family annual income All Course Type UG and PG general degree courses College Type Government colleges excluding main campus and constituent colleges Co
+  flags: none
+
+ssp_dept_disability_welfare_schemes.pdf
+  pages OCR'd: 2 | characters: 802 | model: gemini-3.5-flash-lite
+  starts with: Scholarship for Disable students - Eligibility Caste All Family annual income All Course Type All College Type All College Seat Type All Promotion status Promoted to present year Any other condition S
+  flags: none
+
+ssp_dept_medical_education_schemes.pdf
+  pages OCR'd: 2 | characters: 1139 | model: gemini-3.5-flash-lite
+  starts with: Social Welfare Department | Tribal Welfare Department | Backward Classes Welfare Department | Department of Minority welfare | Department of Technical Education | Department of Medical Education | > P
+  flags: none
+
+ssp_dept_minority_welfare_schemes.pdf
+  pages OCR'd: 2 | characters: 834 | model: gemini-3.5-flash-lite
+  starts with: Fee Reimbursement scheme for Minorities - Eligibility Caste Minority students Family annual income <= 2.5 lakhs for students studying in MCM courses and <= Rs. 2 lakhs for students studying Postmatric
+  flags: none
+
+ssp_dept_social_welfare_schemes.pdf
+  pages OCR'd: 5 | characters: 2399 | model: gemini-3.5-flash-lite
+  starts with: Fee Reimbursement Scheme (Income >2.5 Lakhs to <10 Lakhs) - Eligibility Caste Scheduled Caste Family annual income >= Rs. 2.5 lakhs to < Rs. 10 lakhs Course Type Diploma in Polytechnic, Technical, Med
+  flags: none
+
+ssp_dept_technical_education_schemes.pdf
+  pages OCR'd: 4 | characters: 1299 | model: gemini-3.5-flash-lite
+  starts with: Sch for Special Category students - Eligibility Caste | Any Family annual Income | Any Course Type | Diploma in Polytechnic, BE, BTech, BArch College Type | Any College Seat Type | Any Promotion statu
+  flags: none
+
+ssp_dept_tribal_welfare_schemes.pdf
+  pages OCR'd: 3 | characters: 1439 | model: gemini-3.5-flash-lite
+  starts with: Management & NRI Tuition Fee Reimbursement – Eligibility Caste Scheduled Tribe Family annual income <= Rs. 10 lakhs Course Type Students admitted to professional courses College Type Private colleges 
+  flags: none
+
+ssp_portal_screenshot_1_overview.pdf
+  pages OCR'd: 6 | characters: 5139 | model: gemini-3.5-flash-lite
+  starts with: 10/27/26, 10:18 AM State Scholarship Portal – Government of Karnataka(ಕರ್ನಾಟಕ ಸರ್ಕಾರ) ↓ Skip to Content Screen Reader Downloads RTI Search... < > CENTRE FOR E-GOVERNANCE Department of Personnel and Ad
+  flags: none
+
+ssp_portal_screenshot_2_schemes.pdf
+  pages OCR'd: 5 | characters: 3802 | model: gemini-3.5-flash-lite
+  starts with: Karnataka State Scholarship Portal - Schemes Skip to Content Screen Reader Downloads RTI Search... Centre for e-Governance Department of Personnel and Administrative Reforms (e-Governance) SHRI D.K.SH
+  flags: none
+
+ssp_portal_screenshot_3_process.pdf
+  pages OCR'd: 5 | characters: 4083 | model: gemini-3.5-flash-lite
+  starts with: Karnataka State Scholarship Portal - Schemes Skip to Content Screen Reader Downloads RTI Search... < > Centre for e-Governance Department of Personnel and Administrative Reforms (e-Governance) SHRI D.
+  flags: none
+
+ssp_portal_screenshot_4_last_dates.pdf
+  pages OCR'd: 5 | characters: 5509 | model: gemini-3.5-flash-lite
+  starts with: Karnataka State Scholarship Portal - Process Skip to Content Screen Reader Downloads RTI Search... Centre for e-Governance Department of Personnel and Administrative Reforms (e-Governance) SHRI D.K.SH
+  flags: none
+
+ssp_prematric_application_user_manual_2026-27.pdf
+  pages OCR'd: 1 | characters: 931 | model: gemini-3.5-flash-lite
+  starts with: STATE SCHOLARSHIP PORTAL State Scholarship Portal (Prematric) Acknowledgment 2026-27 Student Personal Details Student SSP ID | Student Name as per Aadhaar (SSP) | Father Name & Mother/ Guardian Name a
+  flags: none
+
+ssp_prematric_institute_nodal_officer_user_manual_2026-27.pdf
+  pages OCR'd: 1 | characters: 380 | model: gemini-3.5-flash-lite
+  starts with: STATE SCHOLARSHIP PORTAL GOVERNMENT OF KARNATAKA USER LOGGED IN Your IP: POSTMATRIC PREMATRIC SSP LOGOUT QUICK MENU Select a shortcut below to navigate quickly to frequently used functions. View Stude
+  flags: none
+
+ssp_student_application_user_guide_2026-27_kannada.pdf
+  pages OCR'd: 2 | characters: 530 | model: gemini-3.5-flash-lite
+  starts with: 2026 - 27 SSP ವಿದ್ಯಾರ್ಥಿವೇತನ ಅರ್ಜಿ ಸಲ್ಲಿಕೆಯ ಬಳಕೆದಾರರ ಕೈಪಿಡಿ
+  flags: none

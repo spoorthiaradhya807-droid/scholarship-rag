@@ -1,0 +1,8 @@
+SCHEME: Education Assistance to children of construction workers
+DEPARTMENT: Labour Welfare Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Children of construction workers
+COURSE: not stated
+INCOME LIMIT: Not Applicable
+KEY CONDITIONS: not stated
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, Students father/mother/guardian should have a valid construction labourer ID and the details of the said construction labourer should be available in the labour department portal

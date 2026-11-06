@@ -1,0 +1,9 @@
+{
+  "source": "ssp_dept_tribal_welfare_schemes.pdf",
+  "ocr_model": "gemini-3.5-flash-lite",
+  "pages": {
+    "1": "Management & NRI Tuition Fee Reimbursement – Eligibility\nCaste Scheduled Tribe\nFamily annual income <= Rs. 10 lakhs\nCourse Type Students admitted to professional courses\nCollege Type Private colleges\nCollege Seat Type Management quota, NRI quota, Private Seat in Private College seat types of select courses\nPromotion status Promoted to current year\nYear repeater (Detained/Discontinued) Detained/discontinued are not eligible\nDayscholar / Hosteller All\nFresh / Renewal All\nEntry of OTR Number Mandatory",
+    "2": "Hosteller Maintenance Scheme — Eligibility\nCaste Scheduled Tribe\nFamily annual income <= Rs. 2.5 lakhs\nCourse Type Students admitted to technical and medical courses\nonly\nCollege Type Colleges offering Technical and Medical courses\nCollege Seat Type All\nPromotion status Promoted to current year\nYear repeater (Detained/Discontinued) Detained/ discontinued are not\neligible\nDayscholar / Hosteller Hosteller staying in College/ University run\nhostels\nFresh/ Renewal All\nAny other condition Student must be added in SSP HMIS by hostel\nwarden",
+    "3": "Postmatric Scholarship for ST Students - Eligibility\nCaste | Scheduled Tribe\nFamily annual income | <= Rs. 2.5 lakhs\nCourse Type | Class 11 and above\nCollege Type | All\nCollege Seat Type | All\nPromotion status | Promoted to current year\nYear repeater (Detained/Discontinued) | Detained/discontinued are not eligible\nDayScholar / Hosteller | All\nFresh/ Renewal | All\nEntry of OTR Number | Mandatory"
+  }
+}

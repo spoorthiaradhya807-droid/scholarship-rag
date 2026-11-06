@@ -1,0 +1,44 @@
+SCHEME: Fee Reimbursement
+DEPARTMENT: Collegiate Education Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: ST (Scheduled Tribe)
+COURSE: MBA & MCA
+INCOME LIMIT: Above 2.5 LPA Below 10 LPA
+KEY CONDITIONS: Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP; Students whose Parent/s is/are working in State/ Central Government or in any Government Undertakings or is/are pensioner/s should produce their parent/s latest Salary Slip/ Certificate.
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No]; Aadhaar of Student; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP; Parent/s latest Salary Slip/ Certificate (if applicable)
+
+SCHEME: Sanchi Honnamma Scholarship (Scheme for Girl Students who have scored higher marks in 2nd PUC and are studying B. A, B. Com & BBA courses in Govt/Aided Degree colleges.)
+DEPARTMENT: Collegiate Education Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Girl Students; SC/ST & Cat -I - 60 %, Others - 75%
+COURSE: Arts / Commerce and other general degree courses in government/aided colleges.
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Students who have received scholarship from another department will also be eligible for this scheme.; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Tuition Fee Reimbursement for girl students pursuing general degree courses in government/aided colleges
+DEPARTMENT: Collegiate Education Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Girl Students
+COURSE: General degree courses in government/aided colleges
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Students who have received scholarship from other department will not be eligible for this scheme.; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Fee reimbursement for HIV/ Leprosy affected students/ Children of HIV/ Leprosy affected parents who are studying in general degree course.
+DEPARTMENT: Collegiate Education Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Children of HIV/ Leprosy affected parents
+COURSE: General degree courses in government/Aided colleges
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Students who have received scholarship from other department will not be eligible for this scheme.; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Sir C.V Raman Scholarship Scheme for Students who have scored higher marks in 2nd PUC and are studying (specified) science course in Govt/Aided Degree colleges.
+DEPARTMENT: Collegiate Education Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: SC/ST - 60 %, Others - 65%
+COURSE: Science students in government/Aided colleges (Must have selected any two subjects among Physics/Chemistry/Botany/Geology/Zoology/Mathematics)
+INCOME LIMIT: No caste & income restriction
+KEY CONDITIONS: Students who have received scholarship from another department will also be eligible for this scheme.; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student; Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP

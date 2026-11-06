@@ -1,0 +1,26 @@
+SCHEME: Fee Reimbursement
+DEPARTMENT: Tribal Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Scheduled Tribe [ST]
+COURSE: All Courses (Private Seat & Management seat type applications are not eligible)
+INCOME LIMIT: Less Than or equal to 2.5 LPA
+KEY CONDITIONS: Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No]; Aadhaar of Student; NSP OTR (One Time Registration) Number is Manadatory; SATS ID for PUC students
+
+SCHEME: Hostel Fee
+DEPARTMENT: Tribal Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: ST Students staying in Department run Hostels (TWD, DOM & BCWD), Govt. /Pvt. College / university Run Hostel & Grant-in-aid hostel, and Social welfare Department (SWD) run hostel
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: Student academic details must be sent from University/Educational Board (UUCMS/UNIDATA) to SSP; Hostel admission details entered in SHP/SSP-HMIS/API depending on hostel type
+DOCUMENTS: not stated
+
+SCHEME: Day scholar Maintenance
+DEPARTMENT: Tribal Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: ST Students not staying in any hostel
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: not stated
+DOCUMENTS: not stated

@@ -1,0 +1,8 @@
+SCHEME: Stipend for students of Junior Technical Schools (JTS)
+DEPARTMENT: Department of Technical Education
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Not Applicable
+COURSE: Class 8th /9th /10th in Junior Technical Schools (JTS)
+INCOME LIMIT: Not Applicable
+KEY CONDITIONS: The student must be studying in Class 8th /9th /10th in Junior Technical Schools (JTS)
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, Caste and income certificate RD number issued by Revenue Department in the name of student

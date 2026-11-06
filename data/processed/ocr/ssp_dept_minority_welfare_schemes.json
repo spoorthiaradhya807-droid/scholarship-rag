@@ -1,0 +1,8 @@
+{
+  "source": "ssp_dept_minority_welfare_schemes.pdf",
+  "ocr_model": "gemini-3.5-flash-lite",
+  "pages": {
+    "1": "Fee Reimbursement scheme for Minorities -\nEligibility\n\nCaste Minority students\n\nFamily annual income <= 2.5 lakhs for students studying in MCM\ncourses and <= Rs. 2 lakhs for students\nstudying Postmatric Scholarship courses\n\nCourse Type All excluding internship courses\n\nCollege Type All except KSOU & residential colleges\n\nCollege Seat Type All\n\nPromotion status Promoted to present year\n\nDayscholar/Hosteller Not applicable\n\nPrevious year percentage More than 50% in previous year",
+    "2": "Vidyasiri scheme for minorities — Eligibility\nCaste Minority students\nFamily annual income <= Rs. 2.5 lakhs\nCourse Type All\nCollege Type All except students admitted to KSOU\nCollege Seat Type All\nPromotion status Promoted to present year\nDayScholar / Hosteller Applied for hostel but in minority hostel but not allotted a hostel seat\nFresh / Renewal All"
+  }
+}

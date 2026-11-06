@@ -1,0 +1,26 @@
+SCHEME: Fee Reimbursement
+DEPARTMENT: Department of Medical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: ST (Scheduled Tribe)
+COURSE: Medical courses (MBBS, BDS, MDS, MD & MS)
+INCOME LIMIT: Above 2.5 LPA Below 10 LPA
+KEY CONDITIONS: Students who have received scholarship from another department will not be eligible for this scheme. Validated PUC results are mandatory for this scheme. Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP. [KEA- CETಮೂಲಕ ಪ್ರವೇಶ ಪಡೆದವರಿಗೆ ಮಾತ್ರ]
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No], Aadhaar of Student, Students whose Parent/s is/are working in State/ Central Government or in any Government Undertakings or is/are pensioner/s should produce their parent/s latest Salary Slip/ Certificate., Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Scholarship Incentive Medical
+DEPARTMENT: Department of Medical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: No caste & income restriction
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Aadhaar of Student, Student Bonafidedata should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: ಪ್ರೋತ್ಸಾಹದನ / ವಿದ್ಯಾರ್ಥಿ ವೇತನ - ವೈದ್ಯಕೀಯ
+DEPARTMENT: Department of Medical Education
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: not stated
+COURSE: Nursing Courses (List of Govt Nursing colleges given by Department of Medical Education)
+INCOME LIMIT: not stated
+KEY CONDITIONS: Students who have received scholarship from another department will also be eligible for this scheme., Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Student Bonafide data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP

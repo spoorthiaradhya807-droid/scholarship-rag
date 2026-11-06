@@ -1,0 +1,8 @@
+SCHEME: Chief Minister Meenugaarara Vidyanidhi
+DEPARTMENT: Fisheries Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Students whose parents are engaged in Fishermen occupation
+COURSE: Pre-matric (Class 1 to 10)
+INCOME LIMIT: Not Applicable
+KEY CONDITIONS: Parent must be engaged in Fishermen occupation; Parents who are engaged in the fishermen occupation should have a FRUITS ID without agricultural land and their profession should be identified in the KUTUMBA software; Student needs to enroll in KUTUMBA portal mandatorily
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents

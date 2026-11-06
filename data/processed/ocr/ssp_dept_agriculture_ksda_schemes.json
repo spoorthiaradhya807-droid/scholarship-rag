@@ -1,0 +1,8 @@
+{
+  "source": "ssp_dept_agriculture_ksda_schemes.pdf",
+  "ocr_model": "gemini-3.5-flash-lite",
+  "pages": {
+    "1": "MMRVN for Agri Labour children — Eligibility\n\nCaste | All\nFamily annual income | <= Rs. 2.5 lakhs\nCourse Type | All\nCollege Type | All\nCollege Seat Type | All\nPromotion status | Promoted to present year\nParent's occupation | Parent must be a Agriculture labour\nAny other condition | Must have valid FRUITS ID and data available in Kutumba database.",
+    "2": "Mukhya Mantri Raitha Vidhya Nidhi - Eligibility\nCaste All\nFamily annual income <= Rs. 2.5 lakhs\nCourse Type All\nCollege Type All\nCollege Seat Type All\nPromotion status Promoted to present year\nAny other condition Any family member must have agriculture land, have valid FRUITS ID and data must be available in KUTUMBA database. Students eligible under other schemes are not eligible."
+  }
+}

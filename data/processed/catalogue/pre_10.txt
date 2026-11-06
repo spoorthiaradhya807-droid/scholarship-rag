@@ -1,0 +1,8 @@
+SCHEME: Scholarship for students of Sainik Schools
+DEPARTMENT: Sainik Schools
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Students studying in Sainik Schools who got admission through Govt. Quota
+COURSE: Sainik Schools
+INCOME LIMIT: Not Applicable
+KEY CONDITIONS: Student studying in Sainik Schools who got admission through Govt. Quota
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, Student studying in Sainik Schools who got admission through Govt. Quota

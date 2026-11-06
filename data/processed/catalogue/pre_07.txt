@@ -1,0 +1,17 @@
+SCHEME: ಮುಖ್ಯಮಂತ್ರಿ ರೈತ ವಿದ್ಯಾನಿಧಿ (Chief Minister Raitha Vidyanidhi)
+DEPARTMENT: Agriculture Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Girls studying in Class 8th/9th/10th from a farming family
+COURSE: Class 8th / 9th / 10th
+INCOME LIMIT: <= 2.5 lakhs
+KEY CONDITIONS: The student must belong to a farming family; any member in the student's family must own agricultural land and have a Fruits ID
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, Caste and income certificate RD number issued by Revenue Department in the name of student
+
+SCHEME: ಕೃಷಿ ಕಾರ್ಮಿಕ ರೈತ ವಿದ್ಯಾ ನಿಧಿ (Agriculture Labourer Raitha Vidyanidhi)
+DEPARTMENT: Agriculture Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Girls studying in Class 8th/9th/10th from a farming family whose parent is an agricultural labourer or landless agricultural labourer
+COURSE: Class 8th / 9th / 10th
+INCOME LIMIT: <= 2.5 lakhs
+KEY CONDITIONS: The student must belong to a farming family; the student's father/mother/guardian must be identified as an agricultural labourer in the KUTUMBA software and have a Fruits ID, OR children of landless agricultural labourers engaged in agricultural labour activity with MGNREGA card in the name of both father or mother
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, Caste and income certificate RD number issued by Revenue Department in the name of student

@@ -1,0 +1,35 @@
+SCHEME: Fee Concession
+DEPARTMENT: Backward Classes Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Caste: Category-1, Other OBC [2A, 3A, 3B etc]. Girls students studying in Government colleges are not eligible.
+COURSE: All Courses (Private Seat & Management seat type applications are not eligible) students who are not eligible for postmatric (PM yasasvi).
+INCOME LIMIT: Category-1 – Less Than or equal to 2.5 LPA; Other OBC- Less Than or equal 1 LPA
+KEY CONDITIONS: Percentage: Category-1: min 50%, Other OBC's Categories: min 60%; (Private Seat & Management seat type applications are not eligible)
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No]; Aadhaar of Student; SATS ID for PUC students; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details; Student Bonafidedata should be received from university/educational board (UUCMS/UNIDATA) to SSP.
+
+SCHEME: Postmatric Scholarship for Cat-I / NT-SNT students
+DEPARTMENT: Backward Classes Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Cat-I / NT-SNT caste students
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: Percentage Category-1: Department has yet to be given conformation in the minimum percentage
+DOCUMENTS: not stated
+
+SCHEME: Vidyasiri
+DEPARTMENT: Backward Classes Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: OBC students who have applied for BCWD hostel but have not got allotted to any hostel even once
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: Percentage Category-1: min 55%, Other OBC's Categories: min 65%
+DOCUMENTS: not stated
+
+SCHEME: Postmatric scholarship for OBC (PM Yasasvi).
+DEPARTMENT: Backward Classes Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: OBC students; Category-1, 2A, 3A, 3B
+COURSE: All Courses; Students who have not received scholarship under Fee concession / Postmatric scholarship for NT/SNT
+INCOME LIMIT: Category-1 – Less Than or equal to 2.5 LPA; Other OBC- Less Than or equal to 1 LPA
+KEY CONDITIONS: Percentage Category-1: min 60%, Other OBC's Categories: min 70%; In all OBC Scholarship schemes, Students who are studying in Management, private seats in private colleges and COMED-K are not eligible to get the scholarship. The student studying in the Residential college is not eligible.
+DOCUMENTS: Same as above

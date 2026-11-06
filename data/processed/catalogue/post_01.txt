@@ -1,0 +1,26 @@
+SCHEME: Fee Reimbursement
+DEPARTMENT: Social Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: Scheduled Caste [SC]
+COURSE: All Courses
+INCOME LIMIT: Less Than or equal to 2.5 LPA
+KEY CONDITIONS: Student Bonafied data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+DOCUMENTS: Caste and income certificate issued by Revenue Department with RD prefix [15 Digits No]; Aadhaar of Student; SATS ID for PUC students; First & Second Year Diploma lateral entry Professional course students who are admitted through counselling can submit their application using Counselling Details; Student Bonafied data should be received from University/Educational Board (UUCMS or UNIDATA) to SSP
+
+SCHEME: Hostel Fee
+DEPARTMENT: Social Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: SC Students not staying in any hostel (Note: specific hostel sections listed are Department run Hostels (TWD, DOM & BCWD); Govt. / Pvt. College / university Run Hostel & Grant-in-aid hostel; Social welfare Department (SWD) run hostel)
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: Hostel admission details should be entered in SHP (State Hostel Portal) / SSP-HMIS (Hostel Management Information System); Social welfare department should share hosteller data through API, those who are admitted in SWD run hostels
+DOCUMENTS: not stated
+
+SCHEME: Dayscholar Maintenance
+DEPARTMENT: Social Welfare Department
+LEVEL: Post-matric (Class 11 and above, including PUC)
+FOR: SC Students not staying in any hostel
+COURSE: not stated
+INCOME LIMIT: not stated
+KEY CONDITIONS: not stated
+DOCUMENTS: not stated

@@ -1,0 +1,26 @@
+SCHEME: Class 1 to 8th
+DEPARTMENT: Social Welfare Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Scheduled Caste [SC]
+COURSE: Class 1 to 8th
+INCOME LIMIT: <= 6 lakhs
+KEY CONDITIONS: not stated
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, The student's Aadhaar must be linked to their bank account, Caste and income certificate RD number issued by Revenue Department in the name of student
+
+SCHEME: Class 9 & 10th
+DEPARTMENT: Social Welfare Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Scheduled Caste [SC]
+COURSE: Class 9 & 10th
+INCOME LIMIT: <= 2.5 lakhs
+KEY CONDITIONS: not stated
+DOCUMENTS: SATS ID of students, Aadhaar of Student, Aadhar of Parents, The student must undergo the Aadhaar biometric eKYC process, Caste and income certificate RD number issued by Revenue Department in the name of student
+
+SCHEME: Unclean Occupation
+DEPARTMENT: Social Welfare Department
+LEVEL: Pre-matric (Class 1 to 10)
+FOR: Not Applicable
+COURSE: Not Applicable
+INCOME LIMIT: not stated
+KEY CONDITIONS: not stated
+DOCUMENTS: Unclean occupation Certificate of Parents, The student must undergo the Aadhaar biometric eKYC process
